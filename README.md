@@ -2,7 +2,7 @@
 
 📚 **I'm a student of** Applied Computer Sciencie at College of Economics and Computer Science in Krakow
 
-🔭 **I’m currently working on:** TaskManagerAPI
+🔭 **I’m currently working on:** 
 
 🌱 **I’m currently learning:** ASP.NET MVC
 
