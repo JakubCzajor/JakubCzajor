@@ -2,9 +2,9 @@
 
 📚 **I'm a student of** Applied Computer Sciencie at College of Economics and Computer Science in Krakow
 
-🔭 **I’m currently working on:** 
+🔭 **I’m currently working on:** BloggingPlatformMVC
 
-🌱 **I’m currently learning:** ASP.NET MVC
+🌱 **I’m currently learning:**
 
 📫 **How to reach me:**
 - [Email](mailto:jakub.czajor7@gmail.com)
