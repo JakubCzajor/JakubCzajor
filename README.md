@@ -2,7 +2,7 @@
 
 📚 **I'm a student of** Applied Computer Sciencie at College of Economics and Computer Science in Krakow
 
-🔭 **I’m currently working on:** BloggingPlatformMVC
+🔭 **I’m currently working on:**
 
 🌱 **I’m currently learning:**
 
@@ -23,3 +23,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
